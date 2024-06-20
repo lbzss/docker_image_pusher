@@ -1,7 +1,1 @@
-nginx
-#支持私库
-mysql
-redis
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64
+rancher/system-agent-installer-rke2:v1.27.11-rke2r1
