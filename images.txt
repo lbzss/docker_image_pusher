@@ -1,1 +1,1 @@
-tutum/dnsutils
+kubeovn/jessie-dnsutils
