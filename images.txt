@@ -1,1 +1,2 @@
-kubeovn/jessie-dnsutils
+kubeovn/jessie-dnsutils:1.7-amd64
+
