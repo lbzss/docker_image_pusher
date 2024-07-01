@@ -1,1 +1,1 @@
-dnsutils
+tutum/dnsutils
