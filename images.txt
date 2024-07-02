@@ -1,2 +1,1 @@
-kubeovn/jessie-dnsutils:1.7-amd64
-
+redis:5.0.7
