@@ -1,1 +1,1 @@
-docker.io/bitnami/minio:2022.10.15-debian-11-r1
+docker.io/seataio/seata-server:1.6.0
