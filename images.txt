@@ -1,1 +1,1 @@
-docker.io/rancher/rancher-agent:v2.8.2
+openzipkin/zipkin-slim:2.23.14
