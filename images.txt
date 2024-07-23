@@ -1,1 +1,2 @@
-openzipkin/zipkin-slim:2.23.14
+docker.io/istio/tcp-echo-server:1.2
+curlimages/curl
