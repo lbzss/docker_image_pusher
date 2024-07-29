@@ -1,2 +1,1 @@
-openjdk:8-jdk
-maven:3.6.3-openjdk-8
+openjdk:8-jdk-alpine
