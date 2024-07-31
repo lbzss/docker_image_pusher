@@ -1,1 +1,2 @@
-rancher/rancher-cleanup:latest
+node:18
+node:20
