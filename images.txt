@@ -1,2 +1,4 @@
-	apache/skywalking-oap-server:9.1.0
-	apache/skywalking-ui:9.1.0
+docker.io/cairry/watchalert:latest
+docker.io/cairry/watchalert-web:latest
+redis:latest
+mysql:latest
