@@ -1,4 +1,5 @@
-docker.io/cairry/watchalert:latest
-docker.io/cairry/watchalert-web:latest
-redis:latest
-mysql:latest
+ghcr.io/radius-project/applications-rp:latest
+	ghcr.io/radius-project/deployment-engine
+ghcr.io/radius-project/controller
+ghcr.io/radius-project/dashboard
+ghcr.io/radius-project/ucpd
