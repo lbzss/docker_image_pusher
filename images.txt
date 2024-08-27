@@ -1,5 +1,1 @@
-ghcr.io/radius-project/applications-rp:latest
-	ghcr.io/radius-project/deployment-engine
-ghcr.io/radius-project/controller
-ghcr.io/radius-project/dashboard
-ghcr.io/radius-project/ucpd
+	bitnami/contour:1.24.2-debian-11-r1
