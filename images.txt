@@ -1,1 +1,1 @@
-	bitnami/contour:1.24.2-debian-11-r1
+elasticdump/elasticsearch-dump
