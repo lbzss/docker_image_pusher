@@ -296,3 +296,4 @@ rancher/mirrored-cilium-hubble-relay:v1.15.4
 rancher/mirrored-cilium-hubble-relay:v1.15.5
 rancher/mirrored-cilium-hubble-relay:v1.16.0
 rancher/mirrored-cilium-hubble-relay:v1.16.1
+
