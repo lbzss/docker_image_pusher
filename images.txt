@@ -1,2 +1,1 @@
-openjdk:17-jdk-oracle
-maven:3.8.1-openjdk-17
+fluent-bit:3.0.7-amd64
