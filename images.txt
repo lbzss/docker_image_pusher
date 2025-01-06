@@ -1,1 +1,1 @@
-controller:latest
+openwhisk/controller:latest
