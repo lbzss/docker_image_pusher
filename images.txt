@@ -1,1 +1,1 @@
-memcached:1.6.26-alpine3.19
+controller:latest
