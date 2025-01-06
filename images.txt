@@ -1,1 +1,2 @@
-openwhisk/controller:latest
+alpine:3.12
+registry.k8s.io/pause:3.1
