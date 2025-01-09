@@ -1,1 +1,1 @@
-busybox
+gcr.io/distroless/static:nonroot
