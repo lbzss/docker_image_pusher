@@ -1,1 +1,2 @@
-zookeeper
+docker.io/istio/pilot:1.14.6
+docker.io/istio/pilot:1.20.7
