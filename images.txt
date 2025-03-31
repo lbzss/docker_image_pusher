@@ -1,1 +1,1 @@
-mysql:8.0.41-oraclelinux9
+maven:3.8.1-openjdk-8
