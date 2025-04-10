@@ -1,3 +1,1 @@
-grafana/loki-canary:2.6.1
-nginxinc/nginx-unprivileged:1.19-alpine
-grafana/agent-operator:v0.25.1
+grafana/loki:2.6.1
