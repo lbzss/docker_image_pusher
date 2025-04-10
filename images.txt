@@ -1,1 +1,3 @@
-quay.io/minio/minio:RELEASE.2025-03-12T18-04-18Z-cpuv1
+grafana/loki-canary:2.6.1
+nginxinc/nginx-unprivileged:1.19-alpine
+grafana/agent-operator:v0.25.1
