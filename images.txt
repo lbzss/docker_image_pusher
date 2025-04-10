@@ -1,1 +1,1 @@
-grafana/loki:2.6.1
+grafana/agent-operator:v0.25.1
