@@ -1,2 +1,1 @@
-mysql:8.0.0
-
+inlong/audit:2.2.0-SNAPSHOT-x86
