@@ -1,5 +1,5 @@
 
 inlong/tubemq-manager:2.2.0-SNAPSHOT-x86
-inlong/tubemq-all:2.2.0-SNAPSHOT-x86
-inlong/manager:2.2.0-SNAPSHOT
+inlong/tubemq-all:2.2.0-SNAPSHOT
+inlong/manager:2.2.0-SNAPSHOT-x86
 
